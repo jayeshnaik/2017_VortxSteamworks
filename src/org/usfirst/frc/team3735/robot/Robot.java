@@ -28,9 +28,9 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
  * directory.
  */
 public class Robot extends IterativeRobot {
-    private static final int kSize640x480 = 0;
-    private static final int kSize320x240 = 1;
-    private static final int kSize160x120 = 2;
+ //   private static final int kSize640x480 = 0;
+ //   private static final int kSize320x240 = 1;
+ //   private static final int kSize160x120 = 2;
     
 
 	Command autonomousCommand;
